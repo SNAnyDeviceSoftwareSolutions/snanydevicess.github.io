@@ -9,6 +9,19 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
+					<form method="POST" action="https://formspree.io/info@snanydevicess.com" style="margin: 20px 0px 20px 0px;">
+						<div class="form-group" style="width: 50%; margin: auto;">
+							<label for="Email" style="color: rgba(255, 255, 255, .5)">Email Address:</label>
+							<input type="email" class="form-control" name="email" aria-describedby="emailHelp" placeholder="Please enter your email address here.">
+							<small id="emailHelp" class="form-text text-muted">We'll NEVER share your email with anyone else.</small><br>
+							<label for="Message" style="color: rgba(255, 255, 255, .5)">Message:</label>
+							<textarea class="form-control" name="message" rows="3" placeholder="Please enter your message here."></textarea><br>
+							<input type="hidden" name="_next" value="#!ThankYou" />
+							<input type="text" name="_gotcha" style="display:none" />
+							<button type="submit" class="btn btn-primary" style="width: 100%">Send</button>
+						</div>
+					</form>
+				<!--
 				<form  action="//formspree.io/{{ site.email }}" method="POST" name="sentMessage" id="contactForm" novalidate>
 					<div class="row control-group">
 						<div class="form-group col-xs-12 floating-label-form-group controls">
@@ -43,6 +56,7 @@
 						</div>
 					</div>
 				</form>
+			-->
 			</div>
 		</div>
 	</div>
