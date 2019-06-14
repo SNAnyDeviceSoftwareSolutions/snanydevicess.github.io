@@ -1,0 +1,19 @@
+{
+	"value":[
+		{
+			"id":"product1",
+			"title":"Dr. Jitendra Arya",
+			"desc":"An Android & iOS application built for a Naturopathic doctor."
+		},
+		{
+			"id":"product2",
+			"title":"Expense Trkr",
+			"desc":"Simple & Smart Expense tracker to keep track of expenses"
+		},
+		{
+			"id":"product3",
+			"title":"MyCannabisRx",
+			"desc":"Track your medical cannabis use and share results with your doctor."
+		}
+	]
+}

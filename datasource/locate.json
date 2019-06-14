@@ -1,0 +1,29 @@
+{
+	"address":{
+		"first":"Financial District, Hyderabad, Telangana 500032, India",
+		"second":"Viman Nagar, Pune, Maharashtra 411014, India"
+	},
+	"socialLinks":[
+		{
+			"name":"github",
+			"link":"https://github.com/sag333ar",
+			"icon":"<span class='fab fa-github'></span>"
+		},
+		{
+			"name":"github",
+			"link":"https://github.com/SNAnyDeviceSoftwareSolutions/",
+			"icon":"<span class='fab fa-github'></span>"
+		},
+		{
+			"name":"stackoverflow",
+			"link":"https://stackoverflow.com/users/140765/sagar-r-kothari",
+			"icon":"<span class='fab fa-stack-overflow'></span>"
+		},
+		{
+			"name":"linkedin",
+			"link":"https://www.linkedin.com/in/sagar-kothari-65a59047/",
+			"icon":"<span class='fab fa-linkedin'></span>"
+		}
+	]
+
+}
