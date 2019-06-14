@@ -1,0 +1,58 @@
+a.link.github {
+				background: #fff;
+				display: inline-block;
+				height: 50px;
+				width: 50px;
+				border-radius: 50%;
+				color: #000;
+				font-size: 30px;
+				transform: translateY(-50%);
+			}
+a.link.linkedin {
+				background: #5992fe;
+				display: inline-block;
+				height: 50px;
+				width: 50px;
+				border-radius: 50%;
+				color: #fff;
+				font-size: 30px;
+			
+				 transform: translateY(-50%);
+			}
+a.link.stackoverflow{
+				background:#ff6c03;
+				display: inline-block;
+				height: 50px;
+				width: 50px;
+				border-radius: 50%;
+				color: #fff;
+				font-size: 30px;
+			
+				 transform: translateY(-50%);
+			}
+			a.link.twitter {
+				background-color: #00ACEE;
+				display: inline-block;
+				height: 50px;
+				width: 50px;
+				border-radius: 50%;
+				color: #fff;
+				font-size: 30px;
+			
+				 transform: translateY(-50%);
+			}
+			a.link.google-plus{
+				background-color: #ff6347;
+				display: inline-block;
+				height: 50px;
+				width: 50px;
+				border-radius: 50%;
+				color: #fff;
+				font-size: 30px;
+			
+				 transform: translateY(-50%);
+			}
+			#social span{
+				padding-top:10px;
+			}
+			
