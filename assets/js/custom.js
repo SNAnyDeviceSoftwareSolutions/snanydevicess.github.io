@@ -25,7 +25,7 @@ $(document).ready(function(){
 		success:function(data)
 		{
 			$.each(data.value,function(index,value){
-				temp="<a href='expensetrkr/index.html'><h4>"+ value.title +"</h4></a>"+"<p class='lead'>"+value.desc+"</p>";
+				temp="<h4>"+ value.title +"</h4>"+"<p class='lead'>"+value.desc+"</p>";
 				$("#"+value.id).append(temp);
 			});
 		},
