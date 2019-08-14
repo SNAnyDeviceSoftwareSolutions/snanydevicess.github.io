@@ -7,7 +7,7 @@ function imageClicked(object) {
   var modalImg = document.getElementById("img01");
   var captionText = document.getElementById("caption");
   modal.style.display = "block";
-  modalImg.src = object.src;
+  modalImg.src = object.src + "-large.png";
   captionText.innerHTML = object.alt;
   // Get the <span> element that closes the modal
   var span = document.getElementsByClassName("close")[0];
