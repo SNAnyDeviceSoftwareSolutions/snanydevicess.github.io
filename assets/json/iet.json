@@ -6,8 +6,44 @@
 		"appVersion": "1.0.1",
 		"appUrl": "https://itunes.apple.com/us/app/IncomeExpenseTracker/id1471583897"
 	},
-	"author": {
-		"name": "Sagar R. Kothari",
-		"image": "https://avatars0.githubusercontent.com/u/35224411?s=400&v=4"
+	"members": {
+		"author": {
+			"name": "Sagar R. Kothari",
+			"image": "https://avatars0.githubusercontent.com/u/35224411?s=400&v=4",
+			"linkedin": "https://www.linkedin.com/in/sagar-kothari-65a59047/"
+		},
+		"mentors": [
+			{
+				"name": "Kaunteya Suryavanshi",
+				"image": "https://media.licdn.com/dms/image/C4D03AQHVNbcjg50JZw/profile-displayphoto-shrink_800_800/0?e=1571270400&v=beta&t=KdoUcC9qVOmCPl92GkXhZllwGuO7GGroamQy5C54uI4",
+				"linkedin": "https://www.linkedin.com/in/kaunteya-suryawanshi-07a51b3b/"
+			},
+			{
+				"name": "Sukrit Gupta",
+				"image": "https://media.licdn.com/dms/image/C5103AQEgjR0aRLD9lQ/profile-displayphoto-shrink_800_800/0?e=1571270400&v=beta&t=bzzJcVbki_5LJ5SVwbkvmwl1CRuDUYRaI1KE6wrHucM",
+				"linkedin": "https://www.linkedin.com/in/sukrit-gupta-563506b0/"
+			},
+			{
+				"name": "Sam Solomon",
+				"image": "https://media.licdn.com/dms/image/C4E03AQH7WQchPS5yOw/profile-displayphoto-shrink_800_800/0?e=1571270400&v=beta&t=5OG0ddlr5FOFrhLyI_mqXZPnaOBi1_XiyfuAD3uVdno",
+				"linkedin": "https://www.linkedin.com/in/sam-solomon-71316880/"
+			},
+			{
+				"name": "Noopur Arya",
+				"linkedin": "https://www.linkedin.com/in/noopur-arya-a1969815/"
+			}
+		],
+		"qas": [
+			{
+				"name": "Darshan Chheda",
+				"image": "https://media.licdn.com/dms/image/C5603AQEu4sv4sp_msw/profile-displayphoto-shrink_800_800/0?e=1571270400&v=beta&t=nwLCVwvZ00GSL3df-umSrE4qQAhLecQ4BlAUNbowXM4",
+				"linkedin": "https://www.linkedin.com/in/darshanchheda/"
+			},
+			{
+				"name": "Aishvarya Verma",
+				"image": "https://media.licdn.com/dms/image/C5103AQHP8iN5OXaqEw/profile-displayphoto-shrink_800_800/0?e=1571270400&v=beta&t=yfY4TshkPWioAh3RPxq1F6n_g9EP3R09gm0AiZ0fFOM",
+				"linkedin": "https://www.linkedin.com/in/aishvaryaverma/"
+			}
+		]
 	}
 }
