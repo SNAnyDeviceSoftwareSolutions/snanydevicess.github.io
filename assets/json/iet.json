@@ -1,10 +1,10 @@
 {
 	"meta": {
-		"mailto": "mailto:snanydevicess@gmail.com",
-		"shareText": "The 'MoneyMeter' mobile application helps you record your incomes & expenses.\nYour data is safe & secure under iCloud account.\nView reports by categories, wallets, accounts, locations. And more...\nDownload now: https://itunes.apple.com/us/app/IncomeExpenseTracker/id1471583897?ls=1&mt=8",
-		"review": "https://itunes.apple.com/us/app/IncomeExpenseTracker/id1471583897?action=write-review",
+		"mailto": "https://github.com/sagar-r-kothari/MoneyMeter/issues",
+		"shareText": "The 'MoneyMeter' mobile application helps you record your incomes & expenses.\nView reports by categories, wallets, accounts, locations. And more...\nDownload now: https://itunes.apple.com/us/app/MoneyMeter/id1477425402?ls=1&mt=8",
+		"review": "https://itunes.apple.com/us/app/MoneyMeter/id1477425402?action=write-review",
 		"appVersion": "1.0.1",
-		"appUrl": "https://itunes.apple.com/us/app/IncomeExpenseTracker/id1471583897"
+		"appUrl": "https://itunes.apple.com/us/app/MoneyMeter/id1477425402"
 	},
 	"members": {
 		"author": {
@@ -30,7 +30,7 @@
 			},
 			{
 				"name": "Noopur Arya",
-				"image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+				"image": "https://www.iconfinder.com/icons/172624/download/png/128",
 				"linkedin": "https://www.linkedin.com/in/noopur-arya-a1969815/"
 			}
 		],
